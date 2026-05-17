@@ -1,0 +1,8 @@
+{
+  "name": "大学生劳动教育PPT生成器",
+  "description": "专为大学生定制的劳动教育课程作业生成器，一键生成精美PPT电子版，涵盖自我介绍、劳模事迹及劳动观感悟。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
